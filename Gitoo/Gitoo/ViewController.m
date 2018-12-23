@@ -19,16 +19,12 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     
-<<<<<<< HEAD
     // master
     
     // master --1
 
     // master   --2
 
-=======
-    // master 
->>>>>>> parent of 6ad973f...     // master   --1
 }
 
 
